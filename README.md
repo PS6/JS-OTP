@@ -32,3 +32,5 @@ You can also input the time for TOTP calculations as an optional second argument
 
 ## Acknowledgements
 This package is adapted from the following [fiddle](http://jsfiddle.net/nt18yhmL/) and the [Node OTP](https://github.com/guyht/notp/) library and uses Brian Turek's [jsSHA](https://github.com/caligatio/jsSHA/).
+
+I forked from https://github.com/jiangts/JS-OTP and used it in https://qr4.tf !
